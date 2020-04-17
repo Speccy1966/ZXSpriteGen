@@ -97,5 +97,3 @@ A : assembles sprite into memory
 
 
 
-You cany then use E : to move around the data as follows
-Sprites can be called back onto the grid and edited then replaced into the bank of 8 with A: to assemble. 
